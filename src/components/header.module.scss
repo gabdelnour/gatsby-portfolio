@@ -1,0 +1,33 @@
+
+.navBar {
+  display: flex;
+  width: 100%;
+  height: 5rem;
+  justify-content: space-evenly;
+  align-items: center;
+  top: 0;
+  position: fixed;
+  z-index: 100;
+  background-color: #DBEFEE;
+}
+
+.link {
+  color: #12343b;
+  text-decoration: none;
+  font-family: 'Taviraj';
+  font-size: 110%;
+}
+
+
+.aboutBox {
+  border: 1px solid #2d545e;
+  height: 2.4rem;
+  width: 6rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 12%;
+  
+}
+
+
